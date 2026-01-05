@@ -7,3 +7,11 @@ STEP 1:
 - Adding langchain-openai
 - Adding python-dotenv , black, isort
 - Adding content file ignore in .gitignore
+
+------------------------------------------
+LangChain Fundamentals: 
+    - Prompt Templates, ChatModels, and Chains 
+----------------------------------------------
+    - Debugging and Tracing Our LangChain Chain
+----------------------------------------------
+Using Local Open- Weights Models with LangChain and Ollama
